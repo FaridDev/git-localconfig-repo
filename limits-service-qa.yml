@@ -1,0 +1,5 @@
+server:
+  port: 8080
+limits-service:
+  minimum: 2
+  maximum: 2222
