@@ -1,5 +1,4 @@
 server:
   port: 8080
 limits-service:
-  minimum: 1
-  maximum: 1111
+  minimum: 5
