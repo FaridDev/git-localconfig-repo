@@ -3,3 +3,6 @@ server:
 limits-service:
   minimum: 8
   maximum: 8888
+management:
+  security:
+    enabled: false
