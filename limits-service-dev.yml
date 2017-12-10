@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8080}
 limits-service:
-  minimum: 55333
+  minimum: 111111
